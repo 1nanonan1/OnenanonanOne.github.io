@@ -9,7 +9,7 @@ Future goals, models can be utilized for an agent to read out whether a jacket, 
 
 #Steps
  1.Server: if not configured, get all requirements, mentioned from lecture topics in downloading Express, etc.
-else, run this -> node server.js
+else, run this -> node server.js OR npm start
 
 2. Open Browser, localhost:3000
 3. Weather Cast App is launched.
